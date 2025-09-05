@@ -2,14 +2,14 @@
 
 🌱 Currently learning **Web Development & DSA**  
 💻 Interested in **AI, Full-Stack Development, and Open Source**  
-📫 Reach me at: **your-email@gmail.com**  
-🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
+📫 Reach me at: rawatpranay764@gmail.com 
+  
 
 ---
 
 ### 🚀 Languages & Tools I Use:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,supabase,nextjs" />
 </p>
 
 ---
