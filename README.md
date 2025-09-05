@@ -31,9 +31,17 @@
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 
+
+
+---
+
 <h3 align="center">
-  <marquee behavior="alternate" direction="right" scrollamount="6">
-    🌟 <span style="color:#ff6600;">Lifelong Learner</span> 🌟
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); 
+                 -webkit-background-clip: text; 
+                 color: transparent; 
+                 font-weight: bold;">
+      🚀 Lifelong Learner 🚀
+    </span>
   </marquee>
 </h3>
-
