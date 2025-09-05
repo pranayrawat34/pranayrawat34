@@ -24,13 +24,12 @@
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/pranay-rawat-29b18b329/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="https://github.com/pranayrawat34" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-</p>
+
+  
+  <marque> Lifelong Learner  </marque>
