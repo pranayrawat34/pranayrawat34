@@ -36,12 +36,7 @@
 ---
 
 <h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); 
-                 -webkit-background-clip: text; 
-                 color: transparent; 
-                 font-weight: bold;">
-      🚀 Lifelong Learner 🚀
-    </span>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Lifelong Learner | Keep Growing, Keep Building 💡
   </marquee>
 </h3>
